@@ -7,6 +7,11 @@ Features Real-time Visualization: Witness the beauty of sound as the app dynamic
 
 Usage Launch the App: Open the application to access the main dashboard. Select Audio Source: Choose your preferred audio source or device. Play Audio: Start playing audio, and watch the mesmerizing spectrum and waveform displays come to life. Customize: Explore the settings to customize themes, adjust display preferences, and make the app uniquely yours.
 
-![Image Alt Text](/screenshots/1.jpg)
+<p align="center">
+    <a target="_blank">
+        <img src="https://github.com/hackett0/Aurora/blob/main/screenshots/1.png"/>
+        <img src="https://github.com/hackett0/Aurora/blob/main/screenshots/2.png"/>
+    </a>
+</p>
 
 Contribution Contributions are welcome! If you have ideas for improvements, feature requests, or bug reports, please open an issue or submit a pull request. Let's make this project even better together!
